@@ -11,7 +11,7 @@ A 23 year old self-taught passionate full stack developer from India building my
 - 🎓 I'm currently pursuing MCA from KIIT Deemed to be University.
 - 🚀 I'm currently learning DSA on Java and Web Development.
 - 💬 Ask me about anything tech related, I am happy to help.
-- 📫 How to reach me: millan.work23@skiff.com
+- 📫 How to reach me: millan.work24@gmail.com
 - 📄 Check out my [resume](https://www.google.com).
 
 ### 🔨 Languages and Tools:
